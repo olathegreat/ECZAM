@@ -1,0 +1,102 @@
+.jumbotron{
+    
+    background-image: linear-gradient(to right,rgba(5, 40, 94, 0.932),rgba(7, 55, 128, 0.63),rgba(0, 0, 0, 0.022)),url(./images/hero_1.jpg);
+    opacity: 1.0;
+    background-position: center;
+    background-size: cover;
+    background-position: fixed;
+    padding: 8rem 1rem;
+    color: white;
+}
+.jumbotron1{
+    background-image: linear-gradient(to right,rgba(5, 40, 94, 0.932),rgba(7, 55, 128, 0.63),rgba(5, 40, 94, 0.932)),url(./images/hero_1.jpg);
+    opacity: 1.0;
+    background-position: center;
+    background-size: cover;
+    background-position: fixed;
+    padding: 8rem 1rem;
+    color: white;
+
+}
+.bgdark{
+    background-color:rgb(3, 30, 73) ;
+}
+
+.brand-style{
+    color: rgb(17, 143, 182);
+}
+.blue{
+    color: rgb(11, 182, 182);
+}
+.details{
+    font-size: 1.5em;
+}
+.aboutus{
+    
+    background-color: rgba(214, 211, 206, 0.007);
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.form-signin{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-top: 30px;
+}
+form h5{
+    font-weight: 200;
+}
+.signin-h1{
+    color: rgb(3, 35, 102);
+}
+
+.jumbotron2{
+    background-image: linear-gradient(to right,rgba(5, 40, 94, 0.932),rgba(7, 55, 128, 0.932),rgba(5, 40, 94, 0.932)),url(./images/hero_1.jpg);
+    opacity: 1.0;
+    background-position: center;
+    background-size: cover;
+    background-position: fixed;
+    padding-top: 10px;
+    
+    color: white;
+
+}
+.exam-choice{
+    font-size: 1em;
+}
+.nodisplay{
+    display: none;
+}
+.exam{
+    display: none;
+    margin-top: 10%;
+    margin-right: 50%;
+}
+.display{
+    display: block;
+}
+.logoheaderposition{
+    margin-left: 5%;
+    margin-top: 10px;
+}
+.btnstyle{
+   
+    background-color: rgba(5, 40, 94, 0.932) ;
+    color: white;
+}
+.btnstyleborder{
+    border-color: red;
+
+}
+.prompter{
+    display: none;
+    
+}
+.z{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+.scoredisplay{
+    display: none;
+}
